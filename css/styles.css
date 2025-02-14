@@ -36,10 +36,14 @@ img {
 }
 
 .me {
-    padding: 7px;
+    padding: 20px;
     display: flex;
     justify-content: center;
-    border: 2px solid white;
+    border: 2px solid black;
     background-color: aliceblue;
-    font-size: 20px;
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 35vw;
+    margin-right: 35vw;
 }
