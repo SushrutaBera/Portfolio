@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+}
+
+.title {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    background-color: aliceblue;
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+.text
+{
+    font-size: larger;
+}
+.text1
+{
+    color: black;
+    font-size: larger;
+}
+
+.img {
+    width: auto;
+    height: 500px;
+}
